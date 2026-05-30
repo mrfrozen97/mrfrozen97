@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tanishq Nimale</h1>
-<h3 align="center">Software Engineer | AI Engineer | Data Engineer</h3>
 
 <p align="center">
-  MS Computer Science @ UT Dallas (4.0 GPA)<br>
-  AWS Certified Cloud Practitioner<br>
+  MS Computer Science @ UT Dallas (4.0 GPA)
   4 US Patents | Ex-MicroStrategy | Ex-Integral Ad Science
 </p>
 
@@ -17,19 +15,6 @@
   </a>
 </p>
 
-- 580+ Problems Solved
-- Strong focus on Dynamic Programming, Graphs, Trees, and Algorithms
-- Regular LeetCode Contest Participant
-
----
-
-## 💻 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mrfrozen97&show_icons=true&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrfrozen97&layout=compact&hide_border=true" />
-</p>
-
 ---
 
 ## 🛠️ Technical Skills
@@ -40,86 +25,17 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square)
 
-### AI / Machine Learning
-- LLMs
-- RAG
-- LangChain
-- NLP
-- TF-IDF
-- Word2Vec
-- TensorFlow
-- Scikit-Learn
+## ⚡ Tech Stack
 
-### Data Engineering
-- Apache Spark
-- PySpark
-- Kafka
-- Databricks
-- Snowflake
-- ETL Pipelines
-- SQL
+**Languages:** Java • Python • C++ • JavaScript
 
-### Cloud & DevOps
-- AWS
-- Docker
-- Kubernetes
-- Terraform
-- CI/CD
-- Linux
+**AI/ML:** LLMs • RAG • LangChain • NLP • TensorFlow • Scikit-Learn • TF-IDF • Word2Vec
 
-### Full Stack
-- React
-- NodeJS
-- Spring Boot
-- REST APIs
-- HTML/CSS
+**Data Engineering:** Spark • PySpark • Kafka • Databricks • Snowflake • SQL • ETL
 
----
+**Cloud & DevOps:** AWS • Docker • Kubernetes • Terraform • Linux • CI/CD
 
-## 🚀 Featured Projects
-
-### 🤖 AI Resume Evaluation & Optimization
-
-Built an end-to-end AI-powered resume optimization platform.
-
-**Highlights**
-- TF-IDF + Word2Vec based matching
-- RAG pipeline using LangChain + Llama
-- 1,200+ scraped job descriptions
-- Resume scoring and improvement suggestions
-- React frontend
-
-**Tech:** Python, LangChain, Llama, React, NLP
-
----
-
-### 🌎 PlanetStat
-
-Economic analytics platform covering all countries worldwide.
-
-**Highlights**
-- 800+ AWS-hosted pages
-- Real-time GDP, debt, and economic metrics
-- Mathematical estimation models
-- 2,500 daily Google impressions
-- 750 active users
-
-**Tech:** React, Recharts, Python, AWS Amplify
-
----
-
-### 📈 Large Scale Streaming ETL Pipeline
-
-Designed and built a high-throughput data pipeline at Integral Ad Science.
-
-**Highlights**
-- 5B+ records processed monthly
-- Kafka + PySpark + Databricks
-- Watermarking and Time Travel
-- Snowflake integration
-- Reduced duplicates to 0.5%
-
-**Tech:** Spark, Kafka, Databricks, Snowflake
+**Full Stack:** React • NodeJS • Spring Boot • REST APIs • HTML/CSS
 
 ---
 
@@ -154,5 +70,3 @@ Designed and built a high-throughput data pipeline at Integral Ad Science.
 </p>
 
 ---
-
-> "Building systems that scale—from AI agents to streaming pipelines."
